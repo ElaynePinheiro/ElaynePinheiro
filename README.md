@@ -8,7 +8,7 @@
 
 <p align="justify">Estudante de Engenharia| Entusiasta de IA | Participante Ativo em Hackathons | Apaixonada por Aprender
 
-Sou uma estudante saindo da Engenharia Ambiental para Engenharia de Automação, apaixonada por soluções tecnológicas e inovações. 
+Sou uma estudante de Engenharia de Automação, apaixonada por soluções tecnológicas e inovações. 
 Participo regularmente de hackathons, onde colaboro com equipes diversas para desenvolver soluções criativas e eficientes para desafios reais. Essas experiências têm sido fundamentais para aprimorar minhas habilidades em áreas de programação, análise de dados, etc. bem como para expandir meu networking com profissionais talentosos e inovadores.
 Estou sempre em busca de novas oportunidades para aprender e crescer, seja através de cursos online, workshops, ou projetos colaborativos.
 <br>
